@@ -73,7 +73,6 @@ import org.springframework.web.util.WebUtils;
  * @see org.springframework.web.servlet.DispatcherServlet
  * @see org.springframework.web.servlet.view.AbstractView#setRequestContextAttribute
  * @see org.springframework.web.servlet.view.UrlBasedViewResolver#setRequestContextAttribute
- * 测试提交会不会报错
  */
 public class RequestContext {
 
